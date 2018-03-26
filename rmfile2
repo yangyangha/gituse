@@ -5,11 +5,8 @@ git rm -f rmfile2
 git rm --cached rmfile2
 
 
-
-<<<<<<< HEAD
 n
-=======
+
 
 
 other pushed
->>>>>>> 3d9d39b634e582786c3df20c607c7cce1e0595c1
