@@ -1,0 +1,7 @@
+彻底删除文件
+git rm -f rmfile2
+
+只去除跟踪，不删除文件
+git rm --cached rmfile2
+
+无关文件修改提交
